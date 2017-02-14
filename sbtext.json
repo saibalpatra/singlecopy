@@ -1,0 +1,17 @@
+[
+  {"name": "ACCOUNT", "type": "string", "mode": "nullable"},
+  {"name": "BIPAD", "type": "integer", "mode": "nullable"},
+  {"name": "TRANSACTION_DATE", "type": "date", "mode": "nullable"},
+  {"name": "DRAW", "type": "integer", "mode": "nullable"},
+  {"name": "REORDER", "type": "integer", "mode": "nullable"},
+  {"name": "COPY_RETURN", "type": "integer", "mode": "nullable"},
+  {"name": "SHORT", "type": "integer", "mode": "nullable"},
+  {"name": "PULLBILL", "type": "integer", "mode": "nullable"},
+  {"name": "STORE_COPY", "type": "integer", "mode": "nullable"},
+  {"name": "PRINTSITE", "type": "integer", "mode": "nullable"},
+  {"name": "PRINTSITE_NAME", "type": "string", "mode": "nullable"},
+  {"name": "ALLOT_TYPE", "type": "string", "mode": "nullable"},
+  {"name": "COMPANY", "type": "string", "mode": "nullable"},
+  {"name": "SEASONAL", "type": "string", "mode": "nullable"},
+  {"name": "DS_REGULATE", "type": "string", "mode": "nullable"}
+]

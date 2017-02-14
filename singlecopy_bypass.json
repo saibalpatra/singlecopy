@@ -1,0 +1,6 @@
+[
+  {"name": "BYPASS_DATE", "type": "date", "mode": "nullable"},
+  {"name": "COMPANY", "type": "string", "mode": "nullable"},
+  {"name": "DESCRIPTION", "type": "string", "mode": "nullable"},
+  {"name": "CREATE_DATE", "type": "date", "mode": "nullable"} 
+]
